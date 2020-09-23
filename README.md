@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<!--
-[![Le Poeme's github stats](https://github-readme-stats.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/lepoeme20/github-readme-stats)
+<div align=center>
+  
+  [![Le Poeme's github stats](https://github-readme-stats.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/lepoeme20/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepoeme20&layout=compact)](https://github.com/lepoeme20/github-readme-stats)
--->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepoeme20&layout=compact)](https://github.com/lepoeme20/github-readme-stats)
+
+</div>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=truel&line_height=27">
