@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lepoeme20.github.io/)](https://lepoeme20.github.io/)
+	
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lepoeme/)](https://www.linkedin.com/in/lepoeme20/)
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lepoeme20@gmail.com)](mailto:lepoeme20@gmail.com)
+	
 <div align=center>
   
   [![Le Poeme's github stats](https://github-readme-stats.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
