@@ -11,13 +11,13 @@
 </div>
  
  - 📫 How to reach me: ...
- 		
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lepoeme20.github.io/)](https://lepoeme20.github.io/)
+  
+ <div align=center>
+	
+   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lepoeme20.github.io/)](https://lepoeme20.github.io/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lepoeme/)](https://www.linkedin.com/in/lepoeme/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lepoeme20@gmail.com)](mailto:lepoeme20@gmail.com)
   
- <div align=center>
- 
 </div>
 	
 <!--
