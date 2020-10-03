@@ -1,3 +1,4 @@
+- 🌱 I’m currently studying at Korea University
 - 🔭 I’m interested in Deep Learning & Machine Learning, especially adversarial example
 
 <div align=center>
