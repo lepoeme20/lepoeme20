@@ -6,9 +6,9 @@
 
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flepoeme20&count_bg=%2379C83D&title_bg=%23555555&icon=aerlingus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![Le Poeme's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Le Poeme's github stats](https://github-readme-stats.vercel.app/api?username=lepoeme20&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=lepoeme20&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepoeme20&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
  
