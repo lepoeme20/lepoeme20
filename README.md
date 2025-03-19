@@ -1,5 +1,5 @@
 - ✨ Ph.D. in Engineering industry 
-- 🔭 I’m currently working on Hana Institute of Technology
+- 🔭 I’m currently working on GENGENAI
 - 😄 I’m interested in Generative AI
  
 <!--
