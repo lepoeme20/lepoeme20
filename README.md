@@ -1,4 +1,4 @@
-- ✨ Ph.D. in Engineering industry 
+- ✨ Ph.D. in Industrial Engineering 
 - 🔭 I’m currently working on GENGENAI
 - 😄 I’m interested in Generative AI
  
