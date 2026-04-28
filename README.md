@@ -1,6 +1,6 @@
 - ✨ Ph.D. in Industrial Engineering 
-- 🔭 I’m currently working on GENGENAI
-- 😄 I’m interested in Generative AI
+- 🔭 I’m currently working on CarbonSix
+- 😄 I’m interested in VLA & Robotics
  
 <!--
 
